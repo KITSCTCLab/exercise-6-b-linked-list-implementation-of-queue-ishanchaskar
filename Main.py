@@ -7,10 +7,6 @@ class Node:
 class Queue:
   def __init__(self):
     self.head = None
-    self.last = None
-
-  def enqueue(self, data) -> None:
-
 
   def dequeue(self) -> None:
     # Write your code here
