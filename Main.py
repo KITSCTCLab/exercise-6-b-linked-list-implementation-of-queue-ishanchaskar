@@ -4,14 +4,7 @@ class Node:
     self.next = None
 
 
-class Queue:
-  def __init__(self):
-    self.head = None
-
-  def dequeue(self) -> None:
-    # Write your code here
-
-  def status(self) -> None:
+cla
     # Write your code here
 
 
